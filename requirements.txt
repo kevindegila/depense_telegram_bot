@@ -1,0 +1,5 @@
+python-telegram-bot==13.5
+google-cloud-speech==2.22.0
+dotenv
+openai
+sqlite3
